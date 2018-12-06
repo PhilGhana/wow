@@ -7,7 +7,7 @@
     }],
     "autoload": {
         "psr-4": {
-            "wisp1999\\Wow\\": "src/"
+            "Wisp1999\\Wow\\": "src/"
         }
     },
     "require": {
