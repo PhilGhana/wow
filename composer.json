@@ -1,0 +1,16 @@
+{
+    "name": "wisp1999/wow",
+    "type": "project",
+    "authors": [{
+        "name": "wisp1999",
+        "email": "wips@gmail.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "wisp1999\\wow\\": "src/"
+        }
+    },
+    "require": {
+        "Wisp1999/HelloWorld": "dev-master"
+    }
+}
